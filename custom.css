@@ -1,0 +1,179 @@
+/* banner text */
+.mat-drawer-container {
+  color: white !important;
+}
+
+.gvPageRoot[_nghost-ng-c622788040]   .phone-number-details[_ngcontent-ng-c622788040],
+.gvPageRoot   [_nghost-ng-c622788040]   .phone-number-details[_ngcontent-ng-c622788040] {
+  color:darkgray
+}
+
+.gvPageRoot[_nghost-ng-c622788040]   .call-as-label[_ngcontent-ng-c622788040],
+.gvPageRoot   [_nghost-ng-c622788040]   .call-as-label[_ngcontent-ng-c622788040] {
+  color:#ffff
+}
+
+
+.gvPageRoot[_nghost-ng-c1252264824]   .input-container[_ngcontent-ng-c1252264824]   [_ngcontent-ng-c1252264824]::placeholder,
+.gvPageRoot   [_nghost-ng-c1252264824]   .input-container[_ngcontent-ng-c1252264824]   [_ngcontent-ng-c1252264824]::placeholder {
+  color:white
+}
+
+/*keypad i think? */
+.gvPageRoot{
+  color-scheme: dark;
+  --mat-sys-background: light-dark(#171B1F,#171B1F)!important;
+  --mat-sys-primary: light-dark(#1e8e3e,#1e8e3e) !important;
+  --mat-sys-label-large-font: Google Sans Text,Google Sans,sans-serif;
+  --mat-sys-label-large-size: 0.875rem;
+  --mat-sys-label-large-tracking: 0;
+  --mat-sys-label-large-weight: 500;
+
+}
+
+.gvPageRoot[_nghost-ng-c994082746]   .primary-text[_ngcontent-ng-c994082746],
+.gvPageRoot   [_nghost-ng-c994082746]   .primary-text[_ngcontent-ng-c994082746] {
+  color:white
+}
+
+
+/* suggestions */
+.gvPageRoot[_nghost-ng-c3539223077]   .root[_ngcontent-ng-c3539223077],
+.gvPageRoot   [_nghost-ng-c3539223077]   .root[_ngcontent-ng-c3539223077] {
+  background-color:#1B1F24
+}
+
+/* suggestions name color */
+.gvPageRoot[_nghost-ng-c1630884236]   .name[_ngcontent-ng-c1630884236],
+.gvPageRoot   [_nghost-ng-c1630884236]   .name[_ngcontent-ng-c1630884236] {
+  color:white
+}
+
+/*selected color */
+.gvPageRoot[_nghost-ng-c104952454]   .container.active[_ngcontent-ng-c104952454],
+.gvPageRoot   [_nghost-ng-c104952454]   .container.active[_ngcontent-ng-c104952454],
+.gvPageRoot[_nghost-ng-c104952454]   .container.highlighted[_ngcontent-ng-c104952454],
+.gvPageRoot   [_nghost-ng-c104952454]   .container.highlighted[_ngcontent-ng-c104952454] {
+  background-color:#0D2D38
+}
+
+
+/*hi NAME text */
+.gvPageRoot .gv-inbox-summary .greeting:not(.vnt) {
+  color:white !important;
+}
+
+/*sidebar text color */
+.gvPageRoot   [_nghost-ng-c104952454]   .container[_ngcontent-ng-c104952454] {
+  color:white
+}
+
+/* banner */
+.gvPageRoot   [_nghost-ng-c465364282]   .banner[_ngcontent-ng-c465364282] {
+  background-color:#171B1F
+}
+
+/*  FINALLY I GOT THE HOVOR COLOR */
+.gvPageRoot[_nghost-ng-c104952454] .container[_ngcontent-ng-c104952454]:focus, .gvPageRoot [_nghost-ng-c104952454] .container[_ngcontent-ng-c104952454]:focus, .gvPageRoot[_nghost-ng-c104952454] .container[_ngcontent-ng-c104952454]:hover, .gvPageRoot [_nghost-ng-c104952454] .container[_ngcontent-ng-c104952454]:hover, .gvPageRoot[_nghost-ng-c104952454] .container.hovering[_ngcontent-ng-c104952454], .gvPageRoot [_nghost-ng-c104952454] .container.hovering[_ngcontent-ng-c104952454] {
+	background-color: #15252B;
+}
+
+/*incoming texts */
+.gvPageRoot   [_nghost-ng-c2087415557]   .incoming[_ngcontent-ng-c2087415557]   .bubble[_ngcontent-ng-c2087415557] {
+   /* your coversation partner's text in the box */
+  color:#ffff !important;;
+  /* the box in question */
+  background-color:#1B1F24;
+}
+
+.gvPageRoot[_nghost-ng-c2087415557]   .bubble[_ngcontent-ng-c2087415557],
+.gvPageRoot   [_nghost-ng-c2087415557]   .bubble[_ngcontent-ng-c2087415557] {
+  background-color:#1B1F24;
+  color:#ffff;
+  border: none
+}
+
+/*top bar */
+.gb_Ma.gb_6a.gb_Ud {
+  background:#171B1F;
+}
+
+/*"voice" text */
+.gb_Ma.gb_6a .gb_wd .gb_Vd {
+  color:white;
+
+}
+/*dnd or active selector text */
+.gvPageRoot[_nghost-ng-c3233313269]   .title[_ngcontent-ng-c3233313269],
+.gvPageRoot   [_nghost-ng-c3233313269]   .title[_ngcontent-ng-c3233313269] {
+  color:white
+}
+
+/*dnd or active selector inside panel */
+.gvPageRoot   .availability-menu-panel   .cdk-dialog-container   gv-availability-view[_nghost-ng-c750594238],
+.availability-menu-panel   .cdk-dialog-container   gv-availability-view   [_nghost-ng-c750594238] {
+  background:#171B1F
+}
+
+/*dnd or active selector inside text */
+.gvPageRoot[_nghost-ng-c1315052601]   .title[_ngcontent-ng-c1315052601],
+.gvPageRoot   [_nghost-ng-c1315052601]   .title[_ngcontent-ng-c1315052601] {
+  color:white
+}
+
+/* im so done. no more comments for you */
+.dnd-button[_ngcontent-ng-c1315052601] {
+  --mat-button-text-label-text-color: #ffff
+}
+
+/*dnd or active selector inside button hover */
+.gvPageRoot[_nghost-ng-c1315052601]   .dnd-status[_ngcontent-ng-c1315052601]:hover,
+.gvPageRoot   [_nghost-ng-c1315052601]   .dnd-status[_ngcontent-ng-c1315052601]:hover {
+  background-color:#1B1F24
+}
+
+.gvPageRoot[_nghost-ng-c1315052601]   .dnd-status[_ngcontent-ng-c1315052601],
+.gvPageRoot   [_nghost-ng-c1315052601]   .dnd-status[_ngcontent-ng-c1315052601] {
+  background-color:#1B1F24
+}
+
+/* dnd is on dropdown */
+.gvPageRoot[_nghost-ng-c1315052601]   .dnd-status.on[_ngcontent-ng-c1315052601],
+.gvPageRoot   [_nghost-ng-c1315052601]   .dnd-status.on[_ngcontent-ng-c1315052601],
+.gvPageRoot[_nghost-ng-c1315052601]   .dnd-reason[_ngcontent-ng-c1315052601],
+.gvPageRoot   [_nghost-ng-c1315052601]   .dnd-reason[_ngcontent-ng-c1315052601] {
+  background:#1B1F24;
+  color:#ffff
+}
+
+/* top search bar */
+.gb_6a .gb_Ld {
+  background:#f0f4f9;
+  background:var(--gm3-sys-color-surface-container,#1B1F24)
+}
+
+.gvPageRoot[_nghost-ng-c674982974]   .root[_ngcontent-ng-c674982974],
+.gvPageRoot   [_nghost-ng-c674982974]   .root[_ngcontent-ng-c674982974] {
+  color:#5f6368;
+  background-color:#1B1F24
+}
+
+.root[_ngcontent-ng-c2843141474] {
+  background-color:#1B1F24
+}
+
+.message-input[_ngcontent-ng-c2843141474] {
+  border:none;
+  line-height:inherit;
+  outline:none;
+  overflow-x:hidden;
+  padding:0;
+  resize:none;
+  background:white 
+  color:var(--mat-sys-on-surface)
+}
+
+/*idk exactly why i need this but it needs to be here lmfao*/
+html {
+	--mat-sidenav-content-background-color: #171B1F;
+}
